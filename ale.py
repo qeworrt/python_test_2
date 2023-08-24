@@ -1,3 +1,1 @@
-print('SZHIZHENIY KAL')
-print('VISRANIY KAL')
-print('EBU KAL VES DEN')
+print('wtf')
